@@ -21,6 +21,10 @@ I enjoy blending **network expertise with coding** to deliver secure, automated,
 
 ### 📌 Featured Projects
 
+- [Atrium](https://github.com/IamCyberRick/atrium)  
+  A project focused on building **software development**  skills anchored on the **EdTech** platform.  
+
+
 ---
 
 ### 🌱 Currently Exploring
